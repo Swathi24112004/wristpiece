@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Search Page</title>
+        <link rel="stylesheet" href="C:\Users\Lenovo\swaloginpage.html">
+    </head>
+    <body background="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\watchwal1.jpg"></body>
+    <style>
+        body{
+            text-align: center;
+            color: white;
+        }
+    </style>
+    <body>
+        <form>
+            <input type="text" placeholder="Search...">
+        </form>
+        <button><a href="swaHOMEwomen.html"> WOMEN</a></button><br><br>
+        <button><a href="swaHOMEmen.html">MEN</a></button><br><br>
+        <button><a href="swaHOMEkids.html">KIDS</a></button><br><br>
+        <button><a href="swaHOMEsmartwatch.html">SMART WATCHES</a></button><br><br>
+        <button><a href="swaaboutus.html">ABOUT US</a></button>
+    </body>
+</html>
